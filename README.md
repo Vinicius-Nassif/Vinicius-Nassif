@@ -9,3 +9,6 @@
     💼 https://www.linkedin.com/in/vinicius-nassif/
 
     ✉️: vinicius.nassif@gmail.com
+    
+
+Seja bem-vindo!
