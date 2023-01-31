@@ -1,6 +1,6 @@
 ### Olá, eu sou o Vinícius! 👋
 
-😁 Explorando novas tecnologias, desenvolvimento e tratamento de dados.
+😁 Explorando novas tecnologias, desenvolvimento em back-end e tratamento de dados.
 
 🌱 Aprendendo mais sobre Python, Power BI e MySQL.
 
