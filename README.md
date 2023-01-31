@@ -1,4 +1,4 @@
-### Olá, sou Vinícius! 👋
+### Olá, eu sou o Vinícius! 👋
 
 😁 Explorando novas tecnologias, desenvolvimento e tratamento de dados.
 
