@@ -4,7 +4,7 @@
     My name is Vinicius, and <strong>I'm a Back-End developer!</strong>
 </p>
  
-💼 I'm currently working as a data developer.
+💼 I'm currently working as a data analyst developer.
 
 <br>
 
