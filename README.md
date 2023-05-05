@@ -10,7 +10,7 @@
 
 <h2>💻 Tech Stack</h2> 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,flask,postman,selenium,mysql,github,ai,discord,vscode&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=py,flask,postman,selenium,mysql,github,ai,vscode&theme=dark" /> 
 </div>
 
 <br>
