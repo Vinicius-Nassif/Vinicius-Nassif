@@ -17,7 +17,7 @@
 <h2>📊 Statistics</h2>
 <div align="center">
   <a href="https://github.com/Vinicius-Nassif">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Nassif&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="o-"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Nassif&show_icons=true&theme=dracula&include_all_commits=false&count_private=true" alt="o-"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-nassif&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
