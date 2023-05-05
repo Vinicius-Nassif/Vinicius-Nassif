@@ -17,7 +17,7 @@
 <h2>📊 Statistics</h2>
 <div align="center">
   <a href="https://github.com/Vinicius-Nassif">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Nassif&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img src="https://img.shields.io/badge/blood-O--%20-red">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Nassif&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
 <br>
